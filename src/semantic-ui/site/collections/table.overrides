@@ -1,0 +1,13 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+/* Larger Margin for last child in Table */
+.ui.table:last-child {
+  margin-bottom: 2rem;
+}
+
+.ui.basic.table th {
+  font-weight: bold;
+  font-size: 0.75rem;
+}

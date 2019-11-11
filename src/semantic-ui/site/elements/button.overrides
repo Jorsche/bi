@@ -1,0 +1,15 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.button,
+.ui.basic.button {
+  box-shadow: none !important;
+  border-radius: 0;
+}
+
+.ui.disabled.button,
+.ui.button:disabled {
+  opacity: 1 !important;
+  background-color: #CCCCCC;
+}

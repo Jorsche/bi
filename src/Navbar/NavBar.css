@@ -1,0 +1,20 @@
+.NavBar{
+display:flex;
+    justify-content:space-around;
+align-items: center;
+    min-height: 10vh;
+    background: aqua;
+    color:white
+
+}
+
+
+.container {
+    flexDirection: 'row';
+    height: auto;
+    background-color: aqua;
+}
+
+.padDiv {
+    flexGrow: 1;
+}

@@ -1,0 +1,12 @@
+/*******************************
+         Site Overrides
+*******************************/
+/* Search Prompt */
+@promptFontSize: 1rem;
+@promptBorderRadius: 0rem;
+
+/* Result Box */
+@resultsWidth: 14em;
+
+/* Result */
+@resultFontSize: 1rem;

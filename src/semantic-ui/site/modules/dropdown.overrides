@@ -1,0 +1,11 @@
+/*******************************
+        User Overrides
+*******************************/
+
+.ui.search.dropdown > input.search {
+  padding-right: 2rem
+}
+
+.ui.active.search.dropdown input.search:focus + .text {
+  color: #CCCCCC !important;
+}

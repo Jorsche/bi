@@ -1,0 +1,4 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@boxShadow: 0px 0px 0px 1px #CCCCCC inset !important;

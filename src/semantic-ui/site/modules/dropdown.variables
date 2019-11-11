@@ -1,0 +1,5 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@selectionMinHeight: unit(2, rem) - @selectionBorderEmWidth;

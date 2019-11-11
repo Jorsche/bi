@@ -1,0 +1,12 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.modal {
+  position: static;
+  width: 45%;
+
+  > .content {
+    min-height: 70%;
+  }
+}
